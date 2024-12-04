@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventofcode.runner", "adve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventofcode.common", "adventofcode.common\adventofcode.common.csproj", "{617896D7-A9A8-4CD4-B1CE-4C419EFB7945}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventofcode.puzzles", "adventofcode.puzzles\adventofcode.puzzles.csproj", "{61CADBB3-7392-40A8-9DFC-F0E3941336C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{617896D7-A9A8-4CD4-B1CE-4C419EFB7945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617896D7-A9A8-4CD4-B1CE-4C419EFB7945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617896D7-A9A8-4CD4-B1CE-4C419EFB7945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CADBB3-7392-40A8-9DFC-F0E3941336C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CADBB3-7392-40A8-9DFC-F0E3941336C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CADBB3-7392-40A8-9DFC-F0E3941336C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CADBB3-7392-40A8-9DFC-F0E3941336C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
